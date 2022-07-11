@@ -3,6 +3,8 @@ SobaBoii Fabric Mod for Minecraft 1.18.2 - More Ingredients including Buckwheat,
 
 Includes Japanese Localisation from Google Translate
 
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/sobaboii
+
 ![SobaboiiBanner](/docs/SobaboiiBanner.png)
 
 ![SobaNoodlesLabel](/docs/SobaNoodlesLabel.png)
