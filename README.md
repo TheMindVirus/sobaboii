@@ -4,9 +4,15 @@ SobaBoii Fabric Mod for Minecraft 1.18.2 - More Ingredients including Buckwheat,
 Includes Japanese Localisation from Google Translate
 
 ![SobaboiiBanner](/docs/SobaboiiBanner.png)
+
 ![SobaNoodlesLabel](/docs/SobaNoodlesLabel.png)
-![SobaNoodles](/docs/SobaboiiNoodles.png)
+
+![SobaNoodlesRecipe](/docs/SobaboiiNoodlesRecipe.png)
+
 ![RhubarbCrumbleLabel](/docs/RhubarbCrumbleLabel.png)
-![RhubarbCrumble](/docs/RhubarbCrumble.png)
+
+![RhubarbCrumbleRecipe](/docs/RhubarbCrumbleRecipe.png)
+
 ![RaspberryPieLabel](/docs/RaspberryPieLabel.png)
-![RaspberryPie](/docs/RaspberryPie.png)
+
+![RaspberryPieRecipe](/docs/RaspberryPieRecipe.png)
