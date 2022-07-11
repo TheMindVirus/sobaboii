@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ASB",
+		"RP ",
+		"   "
+	],
+	"key": {
+		"A": { "item": "minecraft:apple" },
+		"S": { "item": "sobaboii:buckwheat" },
+		"B": { "item": "minecraft:bowl" },
+		"R": { "item": "sobaboii:rhubarb" },
+		"P": { "item": "sobaboii:raspberry" }
+	},
+	"result": {
+		"item": "sobaboii:rhubarb_crumble",
+		"count": 4
+	}
+}

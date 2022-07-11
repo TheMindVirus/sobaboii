@@ -1,0 +1,1 @@
+copy /y ".\build\libs\projectred_rebuilt-1.0.0.jar" "M:\MC\instances\PRTest2\.minecraft\mods\projectred_rebuilt-1.0.0.jar"

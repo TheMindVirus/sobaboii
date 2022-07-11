@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"RS ",
+		" E "
+	],
+	"key": {
+		"R": { "item": "sobaboii:raspberry" },
+		"S": { "item": "minecraft:sugar" },
+		"E": { "item": "minecraft:egg" }
+		
+	},
+	"result": {
+		"item": "sobaboii:raspberry_pie",
+		"count": 3
+	}
+}

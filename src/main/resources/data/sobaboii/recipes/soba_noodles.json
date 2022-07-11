@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"WSB",
+		"PR ",
+		"   "
+	],
+	"key": {
+		"W": { "item": "minecraft:wheat" },
+		"S": { "item": "sobaboii:buckwheat" },
+		"B": { "item": "minecraft:bowl" },
+		"P": { "item": "sobaboii:polygonum" },
+		"R": { "item": "sobaboii:rhubarb" }
+	},
+	"result": {
+		"item": "sobaboii:soba_noodles",
+		"count": 8
+	}
+}
