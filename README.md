@@ -7,7 +7,7 @@ Includes Japanese Localisation from Google Translate
 
 ![SobaNoodlesLabel](/docs/SobaNoodlesLabel.png)
 
-![SobaNoodlesRecipe](/docs/SobaboiiNoodlesRecipe.png)
+![SobaNoodlesRecipe](/docs/SobaNoodlesRecipe.png)
 
 ![RhubarbCrumbleLabel](/docs/RhubarbCrumbleLabel.png)
 
